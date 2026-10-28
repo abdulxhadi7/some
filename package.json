@@ -9,6 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "canvas-confetti": "^1.9.4",
+    "framer-motion": "^14.7.1",
+    "lucide-react": "^1.63.0",
+    "motion": "^14.7.1",
     "next": "16.4.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
@@ -20,6 +25,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
+    "puppeteer-core": "^25.16.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
